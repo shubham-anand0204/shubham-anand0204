@@ -1,10 +1,11 @@
 # 💫 About Me:
-Final-year B.Tech Computer Science student with hands-on industry experience as a backend and full-stack developer. I’ve worked on production-grade systems involving scalable APIs, async workflows, and cloud integrations using Flask, SQLAlchemy, PostgreSQL, AWS, and the MERN stack. Passionate about building clean, reliable software and actively seeking SDE / Backend / Full-Stack opportunities.
+Final-year B.Tech Computer Science student with hands-on industry experience as a backend and full-stack developer. I have worked on production-grade systems involving scalable APIs, async workflows, and cloud integrations using Flask, SQLAlchemy, PostgreSQL, AWS, and the MERN stack. Strong in computer science fundamentals and passionate about building clean, reliable software. Actively seeking SDE / Backend / Full-Stack opportunities.
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamanan0204/
-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamanand0423@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamanan0204/)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamanand0423@gmail.com) 
 
 ## 💻 Tech Stack
 
@@ -59,7 +60,7 @@ Final-year B.Tech Computer Science student with hands-on industry experience as 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Key Projects & Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=shubham-anand0204&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
